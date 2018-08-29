@@ -1,5 +1,3 @@
-# Complete-Salesforce-Lightning-Application-Development-V-
-Code repository for Complete Salesforce Lightning Application Development(V), Published by Packt
 # Complete Salesforce Lightning Application Development [Video]
 This is the code repository for [Complete Salesforce Lightning Application Development [Video]](https://www.packtpub.com/application-development/complete-salesforce-lightning-application-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781787289680), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
